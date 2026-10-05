@@ -13,5 +13,5 @@ nav: 3
 
 <h2>Working papers and preprints</h2>
 <div class="publications">
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[keywords=workingpaper,underreview]* %}
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[keywords=workingpaper]* %}
 </div>
