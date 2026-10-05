@@ -6,12 +6,12 @@ description:
 nav: 3
 ---
 <!-- _pages/publications.md -->
-<h2>Journal articles & conference papers</h2>
+<h2>journal articles & conference papers</h2>
 <div class="publications">
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[keywords=published]* %}
 </div>
 
-<h2>Working papers</h2>
+<h2>working papers</h2>
 <div class="publications">
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[keywords=workingpaper]* %}
 </div>
