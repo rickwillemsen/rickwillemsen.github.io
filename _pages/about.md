@@ -9,9 +9,8 @@ profile:
   image: DSC_0617.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Erasmus University Rotterdam</p>
-    <p>Burgemeester Oudlaan 50</p>
-    <p>E-building</p>
+    <p>Singapore University of Technology and Design</p>
+    <p>Engineering Systems and Design</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
