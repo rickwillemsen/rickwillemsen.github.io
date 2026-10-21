@@ -19,4 +19,4 @@ social: false  # social icons are shown in the navbar
 
 ---
 
-I am a postdoctoral research fellow at Singapore University of Technology and Design. I received my PhD from Erasmus University Rotterdam in 2025. My research focuses on developing mathematical programming techniques to a wide variety of topics, including clustering, dimension reduction, data generation, transportation, brain connectomes, and cancer identification.
+I am a postdoctoral research fellow at Singapore University of Technology and Design. I received my PhD from Erasmus University Rotterdam in 2025. My research focuses on developing mathematical programming techniques for a wide variety of topics, including clustering, dimension reduction, data generation, transportation, brain connectomes, and cancer identification.
